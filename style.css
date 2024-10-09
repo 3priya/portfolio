@@ -1,0 +1,23 @@
+
+a{
+    float:right;
+    text-decoration:none;
+    padding:10px;
+    color:white;
+    border:solid black;
+    border-radius: 10px;
+    background-color:grey;
+
+}
+ul{
+    list-style-type:none;
+
+}
+li{
+    margin:auto;
+    padding-top: 25px;
+    padding-right: 25px;
+    top:0%;
+    right:0%;
+}
+
